@@ -1,0 +1,8 @@
+{
+  "name": "AppName",
+  "main": "index.js",
+  "version": "1.0.0",
+  "dependencies": {
+    "electrify-updated-test": "^2.1.10"
+  }
+}
